@@ -1,7 +1,8 @@
 ### I am Utkarsh Bajaj from India, and I do a content on coding(PYTHON and C++) 👋
+#### I am a learner , begineer in c++ and python
+I am a first year student pursuing Civil Engineering (B.Tech) . I am ready to meet new people , want to interact and work with them. 
 
-
-Here are some ideas to get you started:
+Skills: c++/python
 
 - 🔭 I’m currently working on python
 - 🌱 I’m currently learning c++ 
