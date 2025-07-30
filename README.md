@@ -59,6 +59,10 @@ Azure Fundamentals, REST APIs, OOPs, Basic DSA, Accessibility (RPwD Act), DevOps
 📜 Certifications (AKA “Paper That Proves I Know Stuff”)
 Microsoft Certified: Azure Fundamentals (AZ-900)
 
+
+
+<img width="300" height="285" alt="image" src="https://github.com/user-attachments/assets/c81fc03c-cbbc-4811-8642-0f357e94372b" />
+
 Java Programming Course Certification
 
 Certified in Java EE Application Servers
