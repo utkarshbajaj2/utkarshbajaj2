@@ -1,14 +1,16 @@
 <img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/1d85e62a-89ba-496a-a243-dba09885249f" />
 
 
-I am a Full Stack Engineer with a comprehensive academic background, having completed my B.Tech degree, and currently contributing my expertise at Tata Consultancy Services (TCS).
- In my professional journey, I commenced my career as an Associate System Engineer Trainee, where I rapidly cultivated a profound understanding of both backend & frontend technologies.
-Upgraded several applications from Angular 14 to 19 in one day with all the fixes , improving UI speed by 40% 
-.
-Fixed 150+ Sonarquobe issues in HTML , CSS & JS files.
-Fixed 50+ functional issues in Angular 
-Created API for downloading the documents in the zip file
- with folder structure.
-CORS and Spring security Implementation in several API
-Refined UI/UX, achieving 30% faster rendering and reducing frontend defects by 50% for a seamless user experience.
+Full Stack Engineer, contributing my expertise in TCS .
+Strong communicator with a confident and convincing approach.
+
+Experience in building web apps using Angular v14+ & Spring Boot . Proficient in Java, REST APIs and Spring Security. Solid grasp of RxJS, & Material UI integration. Familiar with tools like VS Code, Eclipse, and Git. 
+
+Happy to connect — let’s network, work, and if the vibe’s right, take it offline over something stronger than deadlines.
+
+
+Built scalable web apps with Angular v14+ and Spring Boot. Strong in Java 8, REST APIs, Angular, and RxJS. Sharp eye for cloud related technologoy and UX with a grip on design psychology. Hands-on with VS Code, Eclipse, Git, WinSCP, weblogic Console 12C , Jenkins etc. Clear communicator, confident, and naturally convincing .
+
+<img width="1057" height="189" alt="image" src="https://github.com/user-attachments/assets/2caaf0cd-163e-4842-862d-9ffb5c621cc0" />
+
 
