@@ -36,6 +36,55 @@ Tata Consultancy Services (TCS)
 
 
 
+from PIL import Image, ImageDraw, ImageFont
+import matplotlib.pyplot as plt
+
+# Define badge information (text, background color)
+badges = [
+    ("JavaScript", "#F7DF1E"), ("Java", "#ED8B00"), ("Python", "#3776AB"),
+    ("HTML", "#E34F26"), ("CSS", "#1572B6"), ("Next.js", "#000000"),
+    ("React", "#61DAFB"), ("Node.js", "#339933"), ("Bootstrap", "#7952B3"),
+    ("TailwindCSS", "#06B6D4"), ("MongoDB", "#47A248"), ("PostgreSQL", "#336791"),
+    ("Docker", "#2496ED"), ("GitHub", "#181717")
+]
+
+# Image settings
+badge_width = 200
+badge_height = 50
+padding = 10
+cols = 5
+rows = -(-len(badges) // cols)
+image_width = badge_width * cols + padding * (cols + 1)
+image_height = badge_height * rows + padding * (rows + 1)
+
+# Create a new image
+img = Image.new("RGB", (image_width, image_height), "black")
+draw = ImageDraw.Draw(img)
+
+# Load a font
+try:
+    font = ImageFont.truetype("arial.ttf", 20)
+except IOError:
+    font = ImageFont.load_default()
+
+# Draw badges
+for i, (text, color) in enumerate(badges):
+    col = i % cols
+    row = i // cols
+    x = padding + col * (badge_width + padding)
+    y = padding + row * (badge_height + padding)
+    draw.rectangle([x, y, x + badge_width, y + badge_height], fill=color)
+    w, h = draw.textsize(text, font=font)
+    draw.text((x + (badge_width - w) / 2, y + (badge_height - h) / 2), text, fill="white", font=font)
+
+# Show the image
+plt.figure(figsize=(12, 6))
+plt.imshow(img)
+plt.axis('off')
+plt.tight_layout()
+plt.show()
+
+
 
 
 🛠 Skills
@@ -59,15 +108,17 @@ Azure Fundamentals, REST APIs, OOPs, Basic DSA, Accessibility (RPwD Act), DevOps
 📜 Certifications (AKA “Paper That Proves I Know Stuff”)
 Microsoft Certified: Azure Fundamentals (AZ-900)
 
-
-
-<img width="300" height="285" alt="image" src="https://github.com/user-attachments/assets/c81fc03c-cbbc-4811-8642-0f357e94372b" />
-
 Java Programming Course Certification
 
 Certified in Java EE Application Servers
 
 Git Version Control Course
+
+
+
+
+
+<img width="300" height="285" alt="image" src="https://github.com/user-attachments/assets/c81fc03c-cbbc-4811-8642-0f357e94372b" />
 
 
 
