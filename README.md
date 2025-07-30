@@ -11,7 +11,7 @@ Happy to connect — let’s network, work, and if the vibe’s right, take it o
 
 Built scalable web apps with Angular v14+ and Spring Boot. Strong in Java 8, REST APIs, Angular, and RxJS. Sharp eye for cloud related technologoy and UX with a grip on design psychology. Hands-on with VS Code, Eclipse, Git, WinSCP, weblogic Console 12C , Jenkins etc. Clear communicator, confident, and naturally convincing .
 
-<img width="1080" height="237" alt="Capture" src="https://github.com/user-attachments/assets/03b7ce5b-2969-409b-b703-3a19fd7ec323" />
+
 
 
 
