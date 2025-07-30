@@ -1,3 +1,6 @@
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/1d85e62a-89ba-496a-a243-dba09885249f" />
+
+
 I am a Full Stack Engineer with a comprehensive academic background, having completed my B.Tech degree, and currently contributing my expertise at Tata Consultancy Services (TCS).
  In my professional journey, I commenced my career as an Associate System Engineer Trainee, where I rapidly cultivated a profound understanding of both backend & frontend technologies.
 Upgraded several applications from Angular 14 to 19 in one day with all the fixes , improving UI speed by 40% 
