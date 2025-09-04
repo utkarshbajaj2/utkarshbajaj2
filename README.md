@@ -1,6 +1,5 @@
 <img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/1d85e62a-89ba-496a-a243-dba09885249f" />
 
-
 Full Stack Engineer, contributing my expertise in TCS .
 Strong communicator with a confident and convincing approach.
 
@@ -42,6 +41,10 @@ Tata Consultancy Services (TCS)
 
 
 <img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/2613b6a4-0046-462d-ac9c-7dc94e56b3f4" />
+
+
+
+<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/5643bad8-aabd-4932-b489-f2f1b46eb86b" />
 
 Frontend:
 HTML5, CSS3, SCSS, JavaScript, Angular v14–19, Material UI, RxJS
