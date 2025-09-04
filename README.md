@@ -18,6 +18,11 @@ Tata Consultancy Services (TCS)
 
 
 
+<img width="300" height="285" alt="image" src="https://github.com/user-attachments/assets/c81fc03c-cbbc-4811-8642-0f357e94372b" />
+
+
+
+
 🔧 Debugged 50+ “mystery issues” 🕵️‍♂️ — boosted uptime by 30% (AKA: fewer 3 AM calls).
 🛡 Fixed MPT security flaws so well even hackers got bored 😎.
 📦 Built 15+ shiny new features, from infinite scroll to file uploads—because users always want more.
@@ -62,9 +67,6 @@ Git Version Control Course
 
 
 
-
-
-<img width="300" height="285" alt="image" src="https://github.com/user-attachments/assets/c81fc03c-cbbc-4811-8642-0f357e94372b" />
 
 
 
