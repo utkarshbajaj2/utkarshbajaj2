@@ -44,24 +44,6 @@ Tata Consultancy Services (TCS)
 
 
 
-<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/5643bad8-aabd-4932-b489-f2f1b46eb86b" />
-
-Frontend:
-HTML5, CSS3, SCSS, JavaScript, Angular v14–19, Material UI, RxJS
-
-
-
-Backend:
-Java 8, Spring Boot, Spring Security, Servlets
-
-Database:
-Oracle SQL Developer Tools
-
-Tools & Platforms:
-VS Code, Eclipse, Git, GitLab, Postman, WinSCP, Jenkins, WebLogic Console 12c
-
-Cloud & Concepts:
-Azure Fundamentals, REST APIs, OOPs, Basic DSA, Accessibility (RPwD Act), DevOps Collabs
 
 
 
@@ -73,6 +55,10 @@ Java Programming Course Certification
 Certified in Java EE Application Servers
 
 Git Version Control Course
+
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/94390761-8d79-44f7-a381-98f2440f7660" />
+
 
 
 
